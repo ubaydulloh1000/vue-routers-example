@@ -1,0 +1,8 @@
+{
+    "jobs": [
+        {"id": 1, "title": "Full-stack developer", "slug": "full-stack-developer", "description": "lorem ipsum dolor sit."},
+        {"id": 2, "title": "Backend developer", "slug": "backend-developer", "description": "lorem ipsum dolor sit."},
+        {"id": 3, "title": "Frontend developer", "slug": "frontend-developer", "description": "lorem ipsum dolor sit."},
+        {"id": 4, "title": "Mobile developer", "slug": "mobile-developer", "description": "lorem ipsum dolor sit."}
+    ]
+}
